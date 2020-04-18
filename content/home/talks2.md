@@ -17,15 +17,17 @@ weight = 30
 
 Upcoming
 
-- [2nd Annual Conference on Politics and Computational Social Science](https://mccourt.georgetown.edu/PaCSS), Georgetown University, 28 August 2019
+- [APSA Annual Meeting](https://connect.apsanet.org/apsa2020/), San Francisco, 10-13 September 2020
 
-- [APSA Annual Meeting](https://convention2.allacademic.com/one/apsa/apsa19/index.php?cmd=Online+Program+View+Session&selected_session_id=1543873&PHPSESSID=fnfrgqtvffrqdvv7ll1rf6gb36), Panel on Comparative Politics, Washington DC, 29 August - 1 September 2019
-
-- [Brunek Workshop on Political Economy](https://wspoleco.events.unibz.it), Free University of Bozen, 21-22 October 2019
+Recent
 
 - [1st Zurich Text as Data](https://zurich-text-as-data.com), ETH Zurich, 24-25 October 2019
 
-Recent
+- [Brunek Workshop on Political Economy](https://wspoleco.events.unibz.it), Free University of Bozen, 21-22 October 2019
+
+- [APSA Annual Meeting](https://convention2.allacademic.com/one/apsa/apsa19/index.php?cmd=Online+Program+View+Session&selected_session_id=1543873&PHPSESSID=fnfrgqtvffrqdvv7ll1rf6gb36), Panel on Comparative Politics, Washington DC, 29 August - 1 September 2019
+
+- [2nd Annual Conference on Politics and Computational Social Science](https://mccourt.georgetown.edu/PaCSS), Georgetown University, 28 August 2019
 
 - [International Conference on Public Policy](http://www.ippapublicpolicy.org//conference/icpp4/10), Panel on Political Economy of Public Policy, University of Concordia, Montréal, 26-28 June 2019
 

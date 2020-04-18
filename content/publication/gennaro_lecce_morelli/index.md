@@ -28,7 +28,7 @@ tags:
 - Political Discourse
 - American Politics
 - Text as Data
-title: Mobilization and the Strategy of Populism: Theory and Evidence from the United States
+title: Mobilization and the Strategy of Populism - Theory and Evidence from the United States
 url_code: ''
 url_dataset: ''
 url_pdf: https://www.dropbox.com/preview/Public/gennaro_lecce_morelli.pdf?role=personal

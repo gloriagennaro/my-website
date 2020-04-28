@@ -20,12 +20,13 @@ email: "gloria.gennaro@unibocconi.it"
 interests:
 - Comparative Politics
 - Political Economy
+- Immigration
 - Text as Data
 name: Gloria Gennaro
 organizations:
 - name: Bocconi University
   url: ""
-role: Phd Student in Social and Political Sciences
+role: Phd Candidate in Social and Political Sciences
 social:
 - icon: envelope
   icon_pack: fas

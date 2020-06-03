@@ -17,7 +17,7 @@ weight = 30
 
 Upcoming
 
-- [COMPTEXT](http://www.comptextconference.org/), Virtual, 14 May 2020
+- [EPSA](https://www.epsanet.org), Virtual, 18-19 June 2020
 
 - [Econometric Society’s World Congress](https://www.econometricsociety.org/meetings/schedule/2020/08/17/2020-world-congress-goes-virtual), Virtual, 17-21 August 2020
 

@@ -12,8 +12,10 @@ image:
   focal_point: ""
   preview_only: false
 links:
-#- name: Custom Link
-#  url: http://example.org
+- name: WP version
+  url: http://www.igier.unibocconi.it/files/647.pdf
+- name: Latest version
+  url: https://www.dropbox.com/preview/Public/gennaro_lecce_morelli.pdf?role=personal
 projects:
 #- internal-project
 publication: "Working Paper, Under review"
@@ -31,8 +33,8 @@ tags:
 title: Mobilization and the Strategy of Populism - Theory and Evidence from the United States
 url_code: ''
 url_dataset: ''
-url_pdf: https://www.dropbox.com/preview/Public/gennaro_lecce_morelli.pdf?role=personal
-#url_pdf: http://www.igier.unibocconi.it/files/647.pdf
+url_pdf: ''
+#url_pdf: 
 url_poster: ''
 url_project: ''
 url_slides: ''

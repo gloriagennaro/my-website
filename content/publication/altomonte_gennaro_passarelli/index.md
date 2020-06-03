@@ -15,6 +15,8 @@ image:
 links:
 - name: Latest version
   url: https://www.dropbox.com/s/ujwy7dct31hh0gv/altomonte_gennaro_passarelli.pdf?dl=0
+- name: WP version
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3338817
 projects:
 #- internal-project
 publication: "Working Paper, Under review"
@@ -34,7 +36,7 @@ tags:
 title: Collective Emotions and Protest Vote
 url_code: ""
 url_dataset: ""
-url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3338817
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""

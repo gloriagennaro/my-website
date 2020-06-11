@@ -5,7 +5,7 @@ authors:
 - admin
 - passarelli
 
-date: "2019-02-29"
+date: "2019-02-01"
 doi: ""
 featured: false
 image:
@@ -23,7 +23,7 @@ publication: "Working Paper, Under review"
 publication_short: ""
 publication_types:
 #- "3"
-publishDate: "2019-02-29"
+publishDate: "2019-02-01"
 #slides: example
 summary: We propose and test a novel behavioral theory of protest vote, that combines insights from social psychology to understand the role of collective emotions in generating protest. 
 

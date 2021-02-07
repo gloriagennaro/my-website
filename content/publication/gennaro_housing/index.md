@@ -15,7 +15,7 @@ links:
 #  url: http://example.org
 projects:
 #- internal-project
-publication: "Working Paper, Under review"
+publication: "Working Paper"
 publication_short: ""
 publication_types:
 #- "3"

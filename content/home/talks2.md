@@ -17,13 +17,19 @@ weight = 30
 
 Upcoming
 
-- [EPSA](https://www.epsanet.org), Virtual, 18-19 June 2020
+- [EPSA](https://www.epsanet.org), Virtual, 24-25 June 2021
 
-- [Econometric Society’s World Congress](https://www.econometricsociety.org/meetings/schedule/2020/08/17/2020-world-congress-goes-virtual), Virtual, 17-21 August 2020
+Recent
+
+- CIS Mini-Workshops in Empirical Political Economy, 25 September 2020
+
+- EuroWEPS, Virtual, 17-18 September 2020
 
 - [APSA Annual Meeting](https://connect.apsanet.org/apsa2020/), Panel on Insider/Outsider Divides in Europe, San Francisco, 10-13 September 2020
 
-Recent
+- [Econometric Society’s World Congress](https://www.econometricsociety.org/meetings/schedule/2020/08/17/2020-world-congress-goes-virtual), Virtual, 17-21 August 2020
+
+- [EPSA](https://www.epsanet.org), Virtual, 18-19 June 2020
 
 - [1st Zurich Text as Data](https://zurich-text-as-data.com), ETH Zurich, 24-25 October 2019
 

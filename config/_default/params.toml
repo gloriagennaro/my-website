@@ -54,9 +54,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "gloria.gennaro@unibocconi.it"
+email = "gloria.gennaro@gess.ethz.ch"
 #phone = "888 888 88 88"
-address = "Bocconi University, via Sarfatti 25, 20136 Milano, Italy"
+address = "ETH Zurich, Public Policy Group, Leonhardshalde 21, 8092 Zurich"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>

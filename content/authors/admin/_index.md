@@ -16,7 +16,7 @@ education:
   - course: BSc in Political Science
     institution: Catholic University
     year: 2010
-email: "gloria.gennaro@unibocconi.it"
+email: "gloria.gennaro@gess.ethz.ch"
 interests:
 - Comparative Politics
 - Political Economy
@@ -24,9 +24,9 @@ interests:
 - Computational Social Science
 name: Gloria Gennaro
 organizations:
-- name: Bocconi University
+- name: ETH Zurich
   url: ""
-role: Phd Candidate in Social and Political Sciences
+role: PostDoc
 social:
 - icon: envelope
   icon_pack: fas

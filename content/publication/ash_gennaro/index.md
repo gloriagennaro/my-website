@@ -15,7 +15,7 @@ links:
   url: https://ucc83d12a905be037aa0bf9d3f93.dl.dropboxusercontent.com/cd/0/inline2/BIfobBk4LQTvngcSLSDMiao59LEStFDfizFdjgEtmIqhI8sk1a1hsqS4GviJSV_qFxFZ_DBQjUWEX7EWv9RqcLHf3A7rRJQhzpoqaFzZ-BbpnqqEgWHrltWmroAe53W-65IjTwS13HBdZEX96EVUe98-nfYXUDuTgp87bJaKOXuYaZveLBO_TtE5wxnT6HyQ55soBb-oxGFSkPX1tPq2a22LOPOZiBcvTXsKkpgD1Nviw4aQRc8UsvOHGix5wpbkzxeHXo_m3lY9TmfC0sDIExGfz96mTctPV4fsM5vKEyb6XOa3KQz7g4LKt40rGp_TQPK3pAGVscOr3jX76PCxbOsLiYhLE3mc4fAo9Eb41rUsYA/file
 projects:
 #- internal-project
-publication: "Work in Progress"
+publication: "Working Paper"
 publication_short: ""
 publication_types:
 #- "3"

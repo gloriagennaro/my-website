@@ -13,9 +13,9 @@ image:
   preview_only: false
 links:
 - name: WP version
-  url: http://www.igier.unibocconi.it/files/647.pdf
+  url: https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15686
 - name: Latest version
-  url: https://www.dropbox.com/preview/Public/gennaro_lecce_morelli.pdf?role=personal
+  url: https://www.dropbox.com/s/jt36zlh2hk0hirq/gennaro_lecce_morelli.pdf?dl=0
 projects:
 #- internal-project
 publication: "Working Paper, Under review"

@@ -11,8 +11,11 @@ image:
   focal_point: ""
   preview_only: false
 links:
+- name: WP version
+  url: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/468192/1/CLE_WP_2021_02.pdf
 - name: Latest version
   url: https://www.dropbox.com/s/fopg2zhak1k5uyt/Gennaro-Ash-Emotions-Current.pdf?raw=1
+
 projects:
 #- internal-project
 publication: "Working Paper"

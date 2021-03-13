@@ -18,7 +18,7 @@ links:
 
 projects:
 #- internal-project
-publication: "Working Paper"
+publication: "Working Paper, Under review"
 publication_short: ""
 publication_types:
 #- "3"

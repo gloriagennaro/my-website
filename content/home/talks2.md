@@ -17,14 +17,15 @@ weight = 30
 
 Upcoming
 
-- [EPSA](https://www.epsanet.org), Virtual, 24-25 June 2021
+- [APSA](https://connect.apsanet.org/apsa2021/), Online, 28-30 September 2021
+- [Polmeth](https://wp.nyu.edu/polmeth2021/), Online, 13-16 July 2021
+- [EPSA](https://www.epsanet.org), Online, 24-25 June 2021
 
 Recent
 
+- Harvard Behavioural Political Economy Workshop, 24-25 May 2021
 - CIS Mini-Workshops in Empirical Political Economy, 25 September 2020
-
-- EuroWEPS, Virtual, 17-18 September 2020
-
+- EuroWEPS, Online, 17-18 September 2020
 - [APSA Annual Meeting](https://connect.apsanet.org/apsa2020/), Panel on Insider/Outsider Divides in Europe, San Francisco, 10-13 September 2020
 
 - [Econometric Society’s World Congress](https://www.econometricsociety.org/meetings/schedule/2020/08/17/2020-world-congress-goes-virtual), Virtual, 17-21 August 2020

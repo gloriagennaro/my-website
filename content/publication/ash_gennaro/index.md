@@ -20,7 +20,7 @@ links:
 
 projects:
 #- internal-project
-publication: "Revise and Resubmit, Economic Journal"
+publication: "Conditionally Accepted, Economic Journal"
 publication_short: ""
 publication_types:
 #- "3"

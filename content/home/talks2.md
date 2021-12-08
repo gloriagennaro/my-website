@@ -16,9 +16,11 @@ weight = 30
 +++
 
 Upcoming
+
 - UNU Wider, May 2022
 
 Recent
+
 - [Women in Political Methodology](http://zurichsummerschool.com/speaker-series/), November 2021
 - [APSA Annual Meeting](https://connect.apsanet.org/apsa2021/), September 2021
 - [Polmeth](https://wp.nyu.edu/polmeth2021/), July 2021

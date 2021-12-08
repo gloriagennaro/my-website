@@ -30,7 +30,7 @@ title: Banlieue at the Ballot Box
 subtitle: Immigration and Political Outcomes in Urban Neighborhoods
 url_code: ''
 url_dataset: ''
-url_pdf: https://www.dropbox.com/s/1mm445zy11goscb/gennaro_banlieue.pdf?dl=0
+# url_pdf: https://www.dropbox.com/s/1mm445zy11goscb/gennaro_banlieue.pdf?dl=0
 url_poster: ''
 url_project: ''
 url_slides: ''

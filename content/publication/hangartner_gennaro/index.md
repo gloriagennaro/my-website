@@ -4,7 +4,9 @@ abstract: Despite heightened awareness of the detrimental impact of hate speech 
 authors:
 - hangartner
 - admin
-date: "2021-11-20"
+- et al.
+
+date: "2021-12--7"
 doi: ""
 featured: false
 image:
@@ -12,23 +14,23 @@ image:
   focal_point: ""
   preview_only: false
 links:
-#- name: WP version
- # url: https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15686
-#- name: Latest version
- # url: https://www.dropbox.com/s/jt36zlh2hk0hirq/gennaro_lecce_morelli.pdf?dl=0
+- name: Article
+  url: https://www.pnas.org/content/118/50/e2116310118
+- name: Press Release
+  url: https://immigrationlab.org/project/empathy-helps-counter-hate-speech/
 projects:
 #- internal-project
 publication: "PNAS, forthcoming"
 publication_short: ""
 publication_types:
 #- "3"
-publishDate: "2021-11-20"
+publishDate: "2021-12-07"
 #slides: example
 #summary: 
 tags: 
-- Twitter
-- Counterspeech
 - Experiment
+- Text as Data
+- Emotions in Politics
 title: Empathy-based counterspeech can reduce racist hate speech in a social media field experiment
 url_code: ''
 url_dataset: ''

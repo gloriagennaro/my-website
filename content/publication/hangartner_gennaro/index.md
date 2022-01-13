@@ -20,7 +20,7 @@ links:
   url: https://immigrationlab.org/project/empathy-helps-counter-hate-speech/
 projects:
 #- internal-project
-publication: "PNAS, forthcoming"
+publication: "Proceedings of the National Academy of Sciences 118.50 (2021)"
 publication_short: ""
 publication_types:
 #- "3"

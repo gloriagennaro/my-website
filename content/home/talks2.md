@@ -17,6 +17,8 @@ weight = 30
 
 Upcoming
 
+- Polmeth Europe, June 2022
+- Summer Institute in Computational Social Science, June 2022
 - UNU Wider, May 2022
 
 Recent

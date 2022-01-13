@@ -19,7 +19,7 @@ links:
   url: https://www.dropbox.com/s/ujwy7dct31hh0gv/altomonte_gennaro_passarelli.pdf?dl=0
 projects:
 #- internal-project
-publication: "Working Paper, Under review"
+publication: "Working Paper"
 publication_short: ""
 publication_types:
 #- "3"

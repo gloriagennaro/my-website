@@ -16,7 +16,7 @@ weight = 60
 +++
 Instructor
 
-- Causal Inference Labs, 2021
+- Causal Inference Labs, 2021-2022
 - [Economics of the European Union](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Programs/Summer+School/For+High+School+Students/2018+Edition/), 2018
 
 

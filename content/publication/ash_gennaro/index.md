@@ -1,5 +1,5 @@
 ---
-abstract: We use computational linguistics techniques to study the use of emotion and reason in political discourse. Our new measure of emotionality in language combines lexicons for affective and cognitive processes, as well as word embeddings, to construct a dimension in language space between emotion and reason. After validating the method against human annotations, we apply it to scale 6 million speeches in the U.S. Congressional Record for the years 1858 through 2014. Intuitively, emotionality spikes during time of war and is highest for patriotism-related topics. In the time series, emotionality was relatively low and stable in the earlier years but increased significantly starting in the late 1970s. Comparing Members of Congress to their colleagues, we find that emotionality is higher for Democrats, for women, for ethnic/religious minorities, and for those with relatively extreme policy preferences (either left-wing or right-wing) as measured by roll call votes.
+abstract: This paper studies the use of emotion and reason in political discourse. Adopting computational-linguistics techniques to construct a validated text-based scale, we measure emotionality in 6 million speeches given in U.S. Congress over the years 1858-2014. Intuitively, emotionality spikes during times of war and is highest in speeches about patriotism. In the time series, emotionality was relatively low and stable in earlier years but increased significantly starting in the late 1970s. Across Congress Members, emotionality is higher for Democrats, for women, for ethnic/religious minorities, for the opposition party, and for members with ideologically extreme roll-call voting records.
 authors:
 - admin
 - ash
@@ -17,10 +17,12 @@ links:
   url: https://www.dropbox.com/s/fopg2zhak1k5uyt/Gennaro-Ash-Emotions-Current.pdf?raw=1
 - name: Sage Ocean Blog
   url: https://ocean.sagepub.com/blog/emotion-and-reason-in-political-language
+- name: Teaching Slides
+  url: https://elliottash.com/wp-content/uploads/2022/01/Gennaro-Ash-EJ-Slides.pdf
 
 projects:
 #- internal-project
-publication: "Conditionally Accepted, Economic Journal"
+publication: "Forthcoming, The Economic Journal"
 publication_short: ""
 publication_types:
 #- "3"

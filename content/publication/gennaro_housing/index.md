@@ -1,9 +1,9 @@
 ---
-abstract: Most immigrants in Western Europe live in large metropolitan suburbs. Natives in the same suburbs are the privileged target of far right-wing politicians. Still, very little is known about the politics of those highly relevant places. This study is the first to address this question directly. How does immigration shape voting in large metropolitan suburbs? The answer is far from obvious, because metropolitan suburbs are located between the cosmopolitan city centers and the nationalist countryside. I exploit a natural experiment across French metropolitan suburbs, consisting of a legal population-based discontinuity in the provision of public housing. I show that municipalities that increased their supply of public housing over the period 2000-2015 also experienced an increase in the share of immigrants over natives, resulting in different voting patterns in the 2017 presidential election. The policy-induced shock on preexisting migration chains allows to isolate the effect of immigration on voting, whilst controlling for the direct effects of public housing and past immigration. Immigration causes an increase in the vote share for far right parties. The evidence suggests a role for perceived (but not realized) competition over welfare benefits to be the driving force behind the results.
+abstract: Can welfare policies generate welfare chauvinism? I propose that, despite reducing scarcity, welfare expansion can generate welfare chauvinism when the immigrant-native divide is salient because the allocation of resources is framed around inter-group competition. I test this hypothesis in France, and exploit the staggered roll-out of a public housing policy around a population threshold. I show that municipalities with large pre-policy exposure to immigration react to public housing expansion by voting more for the National Front, i.e., the only party with an explicit welfare-chauvinist platform. An analysis of newspaper circulation reveals that, in the same places, local public opinion perceives a nexus between public housing and immigration. Conversely, municipalities with low pre-policy exposure to immigration respond to the policy with lower support for the National Front and a weaker association between public housing and immigration. Overall, the evidence suggests a role for anticipated (but not actual) competition over welfare benefits to be the driving force behind the results, and sheds new light on the challenges of adapting the welfare state to increasingly diverse societies. 
 
 authors:
 - admin
-date: "2020-03-01"
+date: "2022-13-01"
 doi: ""
 featured: false
 image:
@@ -19,15 +19,15 @@ publication: "Working Paper"
 publication_short: ""
 publication_types:
 #- "3"
-publishDate: "2020-03-01"
+publishDate: "2022-13-01"
 #slides: example
 summary: 
 tags: 
 - Populism
 - Voting behaviour
 - Immigration
-title: Banlieue at the Ballot Box 
-subtitle: Immigration and Political Outcomes in Urban Neighborhoods
+title: Immigration, Public Housing and Welfare Chauvinism
+# subtitle:
 url_code: ''
 url_dataset: ''
 # url_pdf: https://www.dropbox.com/s/1mm445zy11goscb/gennaro_banlieue.pdf?dl=0

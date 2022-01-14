@@ -26,7 +26,7 @@ publication: "*The Economic Journal*, Forthcoming"
 publication_short: ""
 publication_types:
 #- "3"
-publishDate: "2022-02-01"
+publishDate: "2022-01-01"
 #slides: example
 summary: 
 tags: 

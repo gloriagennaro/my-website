@@ -12,10 +12,10 @@ image:
   preview_only: false
 links:
 - name: Latest version
-  url: https://www.dropbox.com/s/fopg2zhak1k5uyt/Gennaro-Ash-Emotions-Current.pdf?raw=1
+  url: https://www.dropbox.com/s/6kg8z6brocvi0gi/gennaro_ash_emotion_reason.pdf?dl=0
 - name: Replication Material
   url: https://zenodo.org/record/5748084#.YeGSbi1Q124
- - name: WP version
+- name: WP version
   url: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/468192/1/CLE_WP_2021_02.pdf
 - name: Sage Ocean Blog
   url: https://ocean.sagepub.com/blog/emotion-and-reason-in-political-language

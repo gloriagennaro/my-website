@@ -46,9 +46,9 @@ social:
 #  icon_pack: fab
  # link: gloria.gennaro
 
-- icon: github
-  icon_pack: fab
-  link: https://github.com/genglo
+#- icon: github
+ # icon_pack: fab
+  #link: https://github.com/genglo
 superuser: true
 user_groups:
 - Researchers

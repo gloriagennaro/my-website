@@ -14,23 +14,29 @@
 #  weight = 30
 
 [[main]]
-  name = "Research"
+  name = "Publications"
   url = "#publications"
   #url = "publication/" # this creates a new page
-  weight = 20
+  weight = 15
 
+[[main]]
+  name = "Research"
+  url = "#ongoing_work"
+  #url = "publication/" # this creates a new page
+  weight = 20
+    
 [[main]]
   name = "Selected Talks"
   url = "#talks2"
   #url = "publication/" # this creates a new page
   weight = 30
-  
+
 [[main]]
   name = "Teaching"
   url = "#teaching2"
   weight = 40
 
-  
+
 [[main]]
   name = "Contact"
   url = "#contact"

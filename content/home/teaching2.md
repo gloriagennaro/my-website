@@ -23,17 +23,11 @@ Instructor
 Teaching Assistant 
 
 - [Econometrics for Policy Analysis (PhD)](https://www.unibocconi.eu/wps/wcm/connect/224624cf-9f25-4364-9c0d-49b30134e575/40393_Econometrics+Policy+Analysis2017_18.pdf?MOD=AJPERES&CVID=lYgzBRM), 2017-2018
-
 - [Advanced Political Economics (Msc)](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20298&anno=2019&IdPag=6165), 2018-2019
-
 - [Comparative Politics and Democratic Theory (MSc)](http://didattica.unibocconi.eu/ts/tsn_anteprima2006.php?cod_ins=20531&anno=2018&IdPag=6068), 2017-2018
-
 - [Economics of European Integration (MSc)](http://didattica.unibocconi.eu/ts/tsn_anteprima2006.php?IdPag=6067&anno=2017&cod_ins=20269), 2016-2017
-
 - [International Relations (BSc)](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30334&anno=2019&IdPag=6162), 2016-2017, 2017-2018, 2018-2019
-
 - [European Economic Policy (BSc)](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30056&anno=2019&IdPag=6162), 2016-2017, 2017-2018, 2018-2019
-
 - [Political Science and Comparative Politics (BSc)](http://didattica.unibocconi.eu/ts/tsn_anteprima2006.php?cod_ins=30317&anno=2017&IdPag=5995), 2016-2017
 
 

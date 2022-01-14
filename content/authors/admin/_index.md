@@ -8,7 +8,7 @@ education:
     institution: Bocconi University
     year: 2020
   - course: EITM Summer Institute
-   institution: Emory University
+    institution: Emory University
     year: 2019
   - course: Oxford Spring School in Advanced Research Methods
     institutions: Oxford University
@@ -42,13 +42,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.it/citations?hl=it&user=Ic6xNOUAAAAJ
-#- icon: skype
-#  icon_pack: fab
- # link: gloria.gennaro
-
-#- icon: github
- # icon_pack: fab
-  #link: https://github.com/genglo
 superuser: true
 user_groups:
 - Researchers

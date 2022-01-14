@@ -6,7 +6,7 @@ authors:
 - admin
 - et al.
 
-date: ""
+date: "2021-12-01"
 doi: ""
 featured: false
 image:
@@ -20,11 +20,11 @@ links:
   url: https://immigrationlab.org/project/empathy-helps-counter-hate-speech/
 projects:
 #- internal-project
-publication: "*Proceedings of the National Academy of Sciences* 118.50 (2021)"
+publication: "*Proceedings of the National Academy of Sciences* 118.50"
 publication_short: ""
 publication_types:
 #- "3"
-#publishDate: "2021-12-07"
+publishDate: "2021-12-07"
 #slides: example
 #summary: 
 tags: 

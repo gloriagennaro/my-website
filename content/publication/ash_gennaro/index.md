@@ -3,7 +3,7 @@ abstract: This paper studies the use of emotion and reason in political discours
 authors:
 - admin
 - ash
-date: "2021-01-01T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -22,7 +22,7 @@ links:
 
 projects:
 #- internal-project
-publication: "Forthcoming, The Economic Journal"
+publication: "*The Economic Journal*, Forthcoming"
 publication_short: ""
 publication_types:
 #- "3"

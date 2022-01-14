@@ -7,7 +7,7 @@ authors:
 - et al.
 
 date: "2021-12-01"
-doi: ""
+doi: "https://doi.org/10.1073/pnas.2116310118"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
@@ -16,6 +16,8 @@ image:
 links:
 - name: Article
   url: https://www.pnas.org/content/118/50/e2116310118
+- name: Replication Material
+  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VZPMC2&widget=dataverse@harvard
 - name: Press Release
   url: https://immigrationlab.org/project/empathy-helps-counter-hate-speech/
 projects:

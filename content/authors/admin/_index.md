@@ -53,4 +53,4 @@ My research focuses on the political economy of advanced democracies, in Western
 
 My work has been published in *The Economic Journal* and in the *Proceedings of the National Academy of Sciences*.
 
-I received my PhD in Public Policy and Administration at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/programs/phd/PhD+in+Public+Policy+and+Administration/). During my PhD, I visited [NYU](https://as.nyu.edu/content/nyu-as/as/departments/sociology.html) and [Harvard University](https://economics.harvard.edu). 
+I received my PhD in Public Policy and Administration at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/programs/phd/PhD+in+Public+Policy+and+Administration/), Department of Social and Political Sciences. During my PhD, I visited [NYU](https://as.nyu.edu/content/nyu-as/as/departments/sociology.html) and [Harvard University](https://economics.harvard.edu). 

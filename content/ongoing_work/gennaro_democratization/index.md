@@ -1,5 +1,5 @@
 ---
-abstract: I propose a formal model of regime transition in which the leader's incentives depend on threats of international conflict. External threats are represented as a war game. In the first period, the leader decides on whether to change regime or not. In the second, he decides how to act in the international conflict. In the third period, the selectorate decides on whether or not re-select the leader. For each opponent regime type, I produce a Markov matrix of regime transition probabilities, that depend on exogenous institutional settings and endogenous probability of aggression. I use these matrices to study democratization and find that (i) limited democracies are more likely than dictatorships to democratize, (ii) the likelihood of democratization is higher when an autocratic regime faces a democracy, rather than any other regime type. 
+abstract: Can international confrontation create incentives for regime change? If so, under what conditions? And in which direction? I propose a formal model of regime transition where the leader's incentives to regime change depend on threats of international conflict and domestic audience costs. In the first period, the leader decides on whether to change regime. In the second, he or she decides how to act in the international conflict. In the third, the selectorate decides on whether or not to re-select the leader. For each opponent regime type, I obtain probabilities of regime transition that depend on exogenous institutional settings and endogenous probabilities of aggression. I find that threat of conflict always generates a positive probability of further power centralization. However, when an autocratic regime faces a democracy, there is also a window of  opportunity for political liberalization. Across cases, institutional reforms are used to insulate the leader from possible domestic audience costs, or as a commitment to a conflict strategy. 
 
 authors:
 - admin
@@ -28,7 +28,7 @@ tags:
 - Formal Theory
 - Comparative Politics
 
-title: Political liberalization under threat of conflict 
+title: Regime Change Under Threat of Conflict
 url_code: ''
 url_dataset: ''
 url_pdf: ''

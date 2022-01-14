@@ -4,7 +4,7 @@ In large cities, segregation reduces the probability of contact between immigran
 
 authors:
 - admin
-date: "2022-13-01"
+date: "2020-05-01"
 doi: ""
 featured: false
 image:
@@ -20,7 +20,7 @@ publication: "Working Paper"
 publication_short: ""
 publication_types:
 #- "3"
-publishDate: "2022-13-01"
+publishDate: "2020-05-01"
 #slides: example
 summary: 
 tags: 

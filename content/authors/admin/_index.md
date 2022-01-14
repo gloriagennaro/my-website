@@ -1,7 +1,7 @@
 ---
 authors:
 - admin 
-bio: My research interests include comparative politics, political economy and text as data.
+bio: Political Economy, Comparative Politics, Text as Data.
 education:
   courses:
   - course: PhD in Social and Political Sciences

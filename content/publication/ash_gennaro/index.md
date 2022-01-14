@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Latest version
+- name: Article
   url: https://www.dropbox.com/s/6kg8z6brocvi0gi/gennaro_ash_emotion_reason.pdf?dl=0
 - name: Replication Material
   url: https://zenodo.org/record/5748084#.YeGSbi1Q124

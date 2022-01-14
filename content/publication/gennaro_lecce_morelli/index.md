@@ -18,7 +18,7 @@ links:
   url: https://www.dropbox.com/s/jt36zlh2hk0hirq/gennaro_lecce_morelli.pdf?dl=0
 projects:
 #- internal-project
-publication: "Working Paper"
+publication: "*CEPR* Discussion Paper DP15686"
 publication_short: ""
 publication_types:
 #- "3"

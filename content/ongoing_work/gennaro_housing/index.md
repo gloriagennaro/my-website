@@ -23,9 +23,11 @@ publishDate: "2022-13-01"
 #slides: example
 summary: 
 tags: 
-- Populism
+- Text as Data
 - Voting behaviour
 - Immigration
+- Populism
+- Comparative Politics
 title: Immigration, Public Housing and Welfare Chauvinism
 # subtitle:
 url_code: ''

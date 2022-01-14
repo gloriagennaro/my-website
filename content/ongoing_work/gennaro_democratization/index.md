@@ -26,6 +26,8 @@ tags:
 - Regime Transition
 - Conflict
 - Formal Theory
+- Comparative Politics
+
 title: Political liberalization under threat of conflict 
 url_code: ''
 url_dataset: ''

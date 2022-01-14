@@ -28,8 +28,8 @@ summary: Do candidates use populism to maximize the impact of political campaign
 tags: 
 - Populism
 - Political Discourse
-- American Politics
 - Text as Data
+- American Politics
 title: Mobilization and the Strategy of Populism - Theory and Evidence from the United States
 url_code: ''
 url_dataset: ''

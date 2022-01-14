@@ -29,6 +29,8 @@ tags:
 - Political Discourse
 - Text as Data
 - Emotions in Politics
+- American Politics
+
 title: Televised Debates and Emotionality in Politics - Evidence from C-SPAN
 #subtitle: 
 url_code: ''

@@ -35,6 +35,7 @@ tags:
 - Political Discourse
 - Text as Data
 - Emotions in Politics
+- American Politics
 
 title: Emotion and reason in political language
 #subtitle: 

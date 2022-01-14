@@ -47,7 +47,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Welcome! I am a PostDoc at the [Immigration Policy Lab](https://immigrationlab.org), at ETH Zurich.
+Welcome! I am a PostDoc at the [Immigration Policy Lab](https://immigrationlab.org), at [ETH Zurich](https://pp.ethz.ch).
 
 My research focuses on the political economy of advanced democracies, in Western Europe and in the US. I use cutting-edge causal inference techniques with machine learning and natural language processing to improve our theoretical understanding of democratic politics. 
 

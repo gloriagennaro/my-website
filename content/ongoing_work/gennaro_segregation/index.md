@@ -24,9 +24,11 @@ publishDate: "2022-13-01"
 #slides: example
 summary: 
 tags: 
-- Populism
 - Voting behaviour
 - Immigration
+- Populism
+- Comparative Politics
+
 title: Anti-Immigration Vote in the City Center
 # subtitle:
 url_code: ''

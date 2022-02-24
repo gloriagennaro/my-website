@@ -17,7 +17,7 @@ links:
 - name: Article
   url: https://www.pnas.org/content/118/50/e2116310118
 - name: Replication Material
-  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ARZ9PU
+  url: https://doi.org/10.7910/DVN/ARZ9PU
 - name: Press Release
   url: https://immigrationlab.org/project/empathy-helps-counter-hate-speech/
 projects:

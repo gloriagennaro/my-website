@@ -1,5 +1,5 @@
 ---
-abstract: The urban rural divide in voting for anti immigration parties is one of the most striking patterns in contemporary Western democracies. Why are cities different?. 
+abstract: The urban rural divide in voting for anti immigration parties is one of the most striking patterns in contemporary Western democracies. Why are cities different? In large cities, segregation reduces the probability of contact between immigrants and natives and, hence, it reduces the salience of the immigration issue in the decision of how to cast a ballot. I show that citizens of large cities in France are more likely to vote more for far-right parties in response to immigration when segregation is low. The effect fades away as segregation increases. When the electoral response to immigration is analysed at the polling station level, i.e. when segregation is naturally controlled for, then standard results in the literature appear; more immigration is associated with more far-right vote, and more so if immigrants compete with natives for welfare.
 
 authors:
 - admin

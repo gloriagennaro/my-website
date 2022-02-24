@@ -17,12 +17,17 @@ weight = 30
 
 Upcoming
 
-- Polmeth Europe, June 2022
-- Summer Institute in Computational Social Science, June 2022
+- [Polmeth Europe](https://polmeth-europe.github.io), June 2022
+- [Summer Institute in Computational Social Science](https://sicss.io/2022/paris/), June 2022
+- [EPSA](https://www.epsanet.org), June 2022
+- [Comptex](https://www.comptextconference.org/#conferences), May 2022
 - UNU Wider, May 2022
+- University of Milano Bicocca, March 2022
+- LISER, March 2022
 
 Recent
 
+- Monash-Warwick-Zurich Text-as-Data Workshop, February 2022
 - [Women in Political Methodology](http://zurichsummerschool.com/speaker-series/), November 2021
 - [APSA Annual Meeting](https://connect.apsanet.org/apsa2021/), September 2021
 - [Polmeth](https://wp.nyu.edu/polmeth2021/), July 2021

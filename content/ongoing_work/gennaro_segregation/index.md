@@ -28,7 +28,7 @@ tags:
 - Populism
 - Comparative Politics
 
-title: Anti-Immigration Vote in the City Center
+title: Anti Immigration Vote in the City Center
 url_code: ''
 url_dataset: ''
 url_pdf: "

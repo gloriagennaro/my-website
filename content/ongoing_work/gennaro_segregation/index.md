@@ -1,5 +1,5 @@
 ---
-abstract: The urban-rural divide in voting for anti-immigration parties is one of the most striking patterns in contemporary Western democracies. Why are cities different? 
+abstract: The urban rural divide in voting for anti immigration parties is one of the most striking patterns in contemporary Western democracies. Why are cities different? 
 
 - admin
 date: "2020-05-01T00:00:00Z"

@@ -1,7 +1,6 @@
 ---
 abstract: The urban-rural divide in voting for anti-immigration parties is one of the most striking patterns in contemporary Western democracies. Why are cities different? 
 
-authors:
 - admin
 date: "2020-05-01T00:00:00Z"
 doi: ""
@@ -15,7 +14,7 @@ links:
 #  url: http://example.org
 projects:
 #- internal-project
-publication: "Working Paper"
+publication: "Working paper"
 publication_short: ""
 publication_types:
 #- "3"
@@ -31,7 +30,7 @@ tags:
 title: Anti Immigration Vote in the City Center
 url_code: ''
 url_dataset: ''
-url_pdf: "
+url_pdf: ''
 url_poster: ''
 url_project: ''
 url_slides: ''

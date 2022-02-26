@@ -11,8 +11,8 @@ image:
   focal_point: ""
   preview_only: false
 links:
-#- name: Custom Link
-#  url: http://example.org
+- name: Latest version
+  url: https://www.dropbox.com/s/9boxgyjobtl80h8/gennaro_housing.pdf?dl=0
 projects:
 #- internal-project
 publication: "Working Paper"

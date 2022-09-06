@@ -24,7 +24,7 @@ links:
 
 projects:
 #- internal-project
-publication: "*The Economic Journal*, Forthcoming"
+publication: "*The Economic Journal*, 2022"
 publication_short: ""
 publication_types:
 #- "3"

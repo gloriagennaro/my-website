@@ -12,7 +12,7 @@ image:
   preview_only: false
 links:
 - name: Latest version
-  url: https://www.dropbox.com/s/9boxgyjobtl80h8/gennaro_housing.pdf?dl=0
+  url: https://www.dropbox.com/s/pq6kdxcb437mnax/gennaro_housing.pdf?dl=0
 projects:
 #- internal-project
 publication: "Working Paper"

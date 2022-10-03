@@ -22,16 +22,16 @@ education:
   - course: BSc in Political Science
     institution: Catholic University
     year: 2010
-email: "gloria.gennaro@gess.ethz.ch"
+email: "g.gennaro@ucl.ac.uk"
 interests:
 - Political Economy
 - Comparative Politics
 - Computational Social Science
 name: Gloria Gennaro
 organizations:
-- name: ETH Zurich
+- name: University College London
   url: ""
-role: PostDoc
+role: Assistant Professor
 social:
 - icon: envelope
   icon_pack: fas

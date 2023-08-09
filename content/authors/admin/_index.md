@@ -22,7 +22,7 @@ education:
   - course: BSc in Political Science
     institution: Catholic University
     year: 2010
-email: "g.gennaro@ucl.ac.uk"
+email: "g.gennaro@ucl.ac.uk "
 interests:
 - Political Economy
 - Comparative Politics

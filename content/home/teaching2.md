@@ -16,6 +16,9 @@ weight = 60
 +++
 Instructor
 
+- [Quantitative Text Analysis for Social Science](https://www.ucl.ac.uk/module-catalogue/modules/quantitative-text-analysis-for-social-science-PUBL0099), 2023-
+- [Statistical Learning](https://www.ucl.ac.uk/module-catalogue/modules/statistical-learning-for-public-policy-ECON0127), 2023-
+- [The Politics of Public Policy](https://www.ucl.ac.uk/module-catalogue/modules/the-politics-of-public-policy-PUBL0098), 2022-
 - Causal Inference Labs, 2021-2022
 - [Economics of the European Union](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Programs/Summer+School/For+High+School+Students/2018+Edition/), 2018
 

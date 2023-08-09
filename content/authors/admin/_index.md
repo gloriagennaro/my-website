@@ -22,14 +22,14 @@ education:
   - course: BSc in Political Science
     institution: Catholic University
     year: 2010
-email: "g.gennaro@ucl.ac.uk "
+email: "g.gennaro@ucl.ac.uk"
 interests:
 - Political Economy
 - Comparative Politics
 - Computational Social Science
 name: Gloria Gennaro
 organizations:
-- name: University College London
+- name: University College London 
   url: ""
 role: Assistant Professor
 social:

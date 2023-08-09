@@ -54,9 +54,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "gloria.gennaro@gess.ethz.ch"
+email = "g.gennaro@ucl.ac.uk"
 #phone = "888 888 88 88"
-address = "ETH Zurich, Public Policy Group, Leonhardshalde 21, 8092 Zurich"
+address = "University College London, Department of Political Science, 29/31 Tavistock Square, London, WC1H 9QU"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
@@ -68,7 +68,7 @@ address = "ETH Zurich, Public Policy Group, Leonhardshalde 21, 8092 Zurich"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/gloriagennaro"},
+#  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/gloriagennaro"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},

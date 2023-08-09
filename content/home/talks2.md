@@ -17,24 +17,17 @@ weight = 30
 
 Upcoming
 
-- [Polmeth Europe](https://polmeth-europe.github.io), June 2022
-- [Summer Institute in Computational Social Science](https://sicss.io/2022/paris/), June 2022
-- [EPSA](https://www.epsanet.org), June 2022
-- [Comptex](https://www.comptextconference.org/#conferences), May 2022
-- UNU Wider, May 2022
-- University of Milano Bicocca, March 2022
-- LISER, March 2022
+- Collegio Carlo Alberto, October 2023
+- European University Institute, November 2023
+- Grenoble University, February 2024
+- London School of Economics and Political Science, March 2024
+- Essex, March 2024
+
 
 Recent
 
-- Monash-Warwick-Zurich Text-as-Data Workshop, February 2022
-- [Women in Political Methodology](http://zurichsummerschool.com/speaker-series/), November 2021
-- [APSA Annual Meeting](https://connect.apsanet.org/apsa2021/), September 2021
-- [Polmeth](https://wp.nyu.edu/polmeth2021/), July 2021
-- [EPSA](https://www.epsanet.org), June 2021
-- Harvard Behavioural Political Economy Workshop, May 2021
-- CIS Mini-Workshops in Empirical Political Economy, September 2020
-- EuroWEPS, September 2020
-- [APSA Annual Meeting](https://connect.apsanet.org/apsa2020/), September 2020
-- [Econometric Society’s World Congress](https://www.econometricsociety.org/meetings/schedule/2020/08/17/2020-world-congress-goes-virtual), August 2020
-- [EPSA](https://www.epsanet.org), June 2020
+- SSRC Workshop on the Economics of Social Media, July 2023
+- CEPR Workshop on Media, June 2023
+- Copenhagen University, April 2023
+- Center for C-SPAN Scholarship & Education, February 2023
+- Pericles Seminar Series, February 2023

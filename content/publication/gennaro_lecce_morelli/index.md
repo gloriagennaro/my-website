@@ -12,10 +12,12 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: WP version
-  url: https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15686
 - name: Latest version
   url: https://www.dropbox.com/s/jt36zlh2hk0hirq/gennaro_lecce_morelli.pdf?dl=0
+- name: Replication Material
+  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/J8ZLIF
+- name: WP version
+  url: https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15686
 projects:
 #- internal-project
 publication: "*Electoral Studies*, Accepted"

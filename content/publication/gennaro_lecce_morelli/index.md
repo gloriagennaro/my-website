@@ -12,8 +12,8 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Latest version
-  url: https://www.dropbox.com/s/jt36zlh2hk0hirq/gennaro_lecce_morelli.pdf?dl=0
+- name: Article
+  url: https://www.pnas.org/doi/10.1073/pnas.2116310118
 - name: Replication Material
   url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/J8ZLIF
 - name: WP version

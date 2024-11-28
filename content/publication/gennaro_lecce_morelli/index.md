@@ -4,7 +4,7 @@ authors:
 - admin
 - lecce
 - morelli
-date: "2020-02-29"
+date: "2024-02-29"
 doi: ""
 featured: false
 image:
@@ -24,7 +24,7 @@ publication: "*Electoral Studies*, Accepted"
 publication_short: ""
 publication_types:
 #- "3"
-publishDate: "2020-02-29"
+publishDate: "2024-02-29"
 #slides: example
 summary: Do candidates use populism to maximize the impact of political campaigns? We show that candidates strategically adapt when campaigning in stiffly competitive districts with high levels of economic insecurity.
 tags: 

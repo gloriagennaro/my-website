@@ -13,7 +13,7 @@ image:
   preview_only: false
 links:
 - name: Accepted Version
-  url: https://www.dropbox.com/s/pq6kdxcb437mnax/gennaro_housing.pdf?dl=0
+  url: https://www.dropbox.com/scl/fi/xkfuxkh071xhvfywo2fsw/gennaro_housing.pdf?rlkey=qx60lyfr337tgpjbxhhto88kp&st=qao9ooul&dl=0
 #- name: Replication Material
 #  url: https://doi.org/10.7910/DVN/ARZ9PU
 #- name: Press Release

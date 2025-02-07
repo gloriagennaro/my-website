@@ -20,7 +20,7 @@ links:
 #  url: https://immigrationlab.org/project/empathy-helps-counter-hate-speech/
 projects:
 #- internal-project
-publication: "*Journal of Politics"
+publication: "*Journal of Politics*, Conditionally Accepted"
 publication_short: ""
 publication_types:
 #- "3"

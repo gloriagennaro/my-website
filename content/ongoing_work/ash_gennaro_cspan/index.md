@@ -32,7 +32,7 @@ tags:
 - Emotions in Politics
 - American Politics
 
-title: Televised Debates and Emotional Appeals in Politics: Evidence from CSPAN
+title: Televised Debates and Emotional Appeals in Politics, Evidence from CSPAN
 url_code: ''
 url_dataset: ''
 url_pdf: ''

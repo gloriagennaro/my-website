@@ -24,7 +24,7 @@ publication: "*Journal of Politics*, Accepted"
 publication_short: ""
 publication_types:
 #- "3"
-publishDate: "2025-04-16""
+publishDate: "2025-04-16"
 #slides: example
 #summary: 
 tags: 

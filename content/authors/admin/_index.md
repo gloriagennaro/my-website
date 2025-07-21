@@ -47,10 +47,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Welcome! I am a Lecturer (Assistant Professor) in Public Policy and Data Science at University College London’s Department of Political Science ([UCL](https://www.ucl.ac.uk/political-science/political-science-0)).
+Welcome! I am a Lecturer (Assistant Professor) in Public Policy and Data Science at University College London’s Department of Political Science ([UCL](https://www.ucl.ac.uk/political-science/political-science-0)). I am an affiliated fellow at the [Immigration Policy Lab](https://immigrationlab.org) and [Baffi Centre](https://baffi.unibocconi.eu/?_gl=1*13qf6k6*_up*MQ..*_ga*MTc4NTI5NTkxNS4xNzUzMDk0OTE3*_ga_5C1D28XKZ9*czE3NTMwOTQ5MTUkbzEkZzEkdDE3NTMwOTQ5MzAkajQ1JGwwJGgw) on Economics, Finance and Regulation.
 
 My research focuses on the political economy of advanced democracies, in Western Europe and in the U.S. I use cutting-edge causal inference techniques with machine learning and natural language processing to improve our theoretical understanding of democratic politics. 
 
-My work has been published in *The Economic Journal* and in the *Proceedings of the National Academy of Sciences*.
+My work has been published in journals like the *Journal of Politics*, *The Economic Journal* and in the *Proceedings of the National Academy of Sciences*.
 
 Before joining UCL, I was a PostDoc at the [Immigration Policy Lab](https://immigrationlab.org), at [ETH Zurich](https://pp.ethz.ch). I received my PhD in Public Policy and Administration at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/programs/phd/PhD+in+Public+Policy+and+Administration/), Department of Social and Political Sciences. During my PhD, I visited [NYU](https://as.nyu.edu/content/nyu-as/as/departments/sociology.html) and [Harvard University](https://economics.harvard.edu). 

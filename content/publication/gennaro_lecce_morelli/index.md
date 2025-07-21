@@ -32,7 +32,7 @@ tags:
 - Political Discourse
 - Text as Data
 - American Politics
-title:  Intertemporal evidence on the strategy of populism in the United States.
+title:  Intertemporal evidence on the strategy of populism in the United States
 url_code: ''
 url_dataset: ''
 url_pdf: ''

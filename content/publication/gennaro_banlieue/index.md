@@ -4,7 +4,7 @@ abstract: In Europe, urban peripheries that host public housing estates are ofte
 authors:
 - admin
 
-date: "2024-12-01"
+date: "2025-04-16"
 doi: ""
 featured: false
 image:
@@ -13,7 +13,7 @@ image:
   preview_only: false
 links:
 - name: Accepted Version
-  url: https://www.dropbox.com/scl/fi/xkfuxkh071xhvfywo2fsw/gennaro_housing.pdf?rlkey=qx60lyfr337tgpjbxhhto88kp&st=qao9ooul&dl=0
+  url: https://doi.org/10.1086/736361
 #- name: Replication Material
 #  url: https://doi.org/10.7910/DVN/ARZ9PU
 #- name: Press Release
@@ -24,7 +24,7 @@ publication: "*Journal of Politics*, Accepted"
 publication_short: ""
 publication_types:
 #- "3"
-publishDate: "2024-12-07"
+publishDate: "2025-04-16""
 #slides: example
 #summary: 
 tags: 

@@ -4,6 +4,7 @@ abstract: |
 
 authors:
   - admin
+  - et al.
 
 date: "2025-07-03"
 doi: ""
@@ -21,7 +22,7 @@ links:
   #   url: https://doi.org/10.7910/DVN/LNWU6W
 
 projects: []
-publication: "*Political Science Research and Methods* Conditionally Accepted"
+publication: "*Political Science Research and Methods*, Conditionally Accepted"
 publication_short: ""
 publication_types: []
 publishDate: "2025-07-03"

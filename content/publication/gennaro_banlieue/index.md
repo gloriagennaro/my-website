@@ -5,17 +5,17 @@ authors:
 - admin
 
 date: "2025-04-16"
-doi: "https://doi.org/10.1086/736361"
+# doi: "https://doi.org/10.1086/736361"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 links:
-- name: Accepted Version
+- name: Article
   url: https://doi.org/10.1086/736361
-#- name: Replication Material
-#  url: https://doi.org/10.7910/DVN/ARZ9PU
+- name: Replication Material
+  url: https://doi.org/10.7910/DVN/L4YOQO
 #- name: Press Release
 #  url: https://immigrationlab.org/project/empathy-helps-counter-hate-speech/
 projects:

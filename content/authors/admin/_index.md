@@ -51,6 +51,6 @@ Welcome! I am a Lecturer (Assistant Professor) in Public Policy and Data Science
 
 My research focuses on the political economy of advanced democracies, in Western Europe and in the U.S. I use cutting-edge causal inference techniques with machine learning and natural language processing to improve our theoretical understanding of democratic politics. 
 
-My work has been published in journals like the *Journal of Politics*, *The Economic Journal* and in the *Proceedings of the National Academy of Sciences*.
+My work is published in the *Journal of Politics*, *The Economic Journal* and in the *Proceedings of the National Academy of Sciences*, among other venues. I am a Co-PI in  the Swiss National Science Foundation grant on “[Improving the Quality of Online Public Discourse](https://data.snf.ch/grants/grant/10001618)”.
 
 Before joining UCL, I was a PostDoc at the [Immigration Policy Lab](https://immigrationlab.org), at [ETH Zurich](https://pp.ethz.ch). I received my PhD in Public Policy and Administration at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/programs/phd/PhD+in+Public+Policy+and+Administration/), Department of Social and Political Sciences. During my PhD, I visited [NYU](https://as.nyu.edu/content/nyu-as/as/departments/sociology.html) and [Harvard University](https://economics.harvard.edu). 
